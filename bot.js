@@ -29,4 +29,4 @@ const favoriteSubject = 'Computer Science';
 const favoriteSubjectSentence = 'My favorite subject is ' + favoriteSubject + '.';
 console.log(favoriteSubjectSentence);
 
-console.log('Well, it was nice to talk to you. Have an awesome day!')
+console.log('Well, it was nice to talk to you. Have an awesome day!');
